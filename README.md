@@ -9,11 +9,14 @@ Il lit des transactions financières à partir d'un **topic Kafka**, filtre les 
 ##  Architecture du projet  
 
 Le projet s'articule autour des composants suivants :
+![Frame 4 (2)](https://github.com/user-attachments/assets/c62260f6-0f24-4e8f-8b18-f9ad85399399)
+
 
 - **Kafka Streams** : Traitement des transactions financières.
 - **InfluxDB** : Stockage des transactions suspectes.
 - **Grafana** : Visualisation des données en temps réel.
 - **Docker Compose** : Déploiement des services.
+  
 
 ## Installation et exécution
 1. Cloner le projet
