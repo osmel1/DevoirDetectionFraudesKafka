@@ -22,7 +22,7 @@ Le projet s'articule autour des composants suivants :
 1. Cloner le projet
    
 ```bash
-git clone [<repository-url>](https://github.com/osmel1/DevoirDetectionFraudesKafka.git)
+git clone https://github.com/osmel1/DevoirDetectionFraudesKafka.git
 
 ```
 
